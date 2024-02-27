@@ -7,7 +7,7 @@
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Keerthana Pravallika",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
